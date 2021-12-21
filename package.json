@@ -1,0 +1,19 @@
+{
+  "name": "js-workshop",
+  "version": "1.0.0",
+  "description": "Entendiendo ECMAScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgodev/js-workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgodev/js-workshop/issues"
+  },
+  "homepage": "https://github.com/cgodev/js-workshop#readme"
+}
