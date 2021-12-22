@@ -39,3 +39,15 @@ helloWorld()
     .catch(error => console.log(error))
     .finally(() => console.log('Ya finalizo.'))
 
+//REGEX
+
+const regexData = /([0-9]{4})-([0-9]{2})-([0-9]{2})/;
+const match = regexData.exec('2018-04-20');
+const year = match[1]
+const mes = match[2]
+const dia = match[3]
+
+console.log(year)
+console.log(mes)
+console.log(dia)
+
